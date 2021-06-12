@@ -1,6 +1,6 @@
 # Parking Application
 
-Final project of C++ course.
+Final project of C++ course. This app is used to record information about the incoming and outgoing vehicles (cars and motorcycles).
 
 ## Objectives
 
