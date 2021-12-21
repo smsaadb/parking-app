@@ -19,8 +19,8 @@ Final project of C++ course. This app is used to record information about the in
 
 ### Returning List of Vehicles
 
-![Returning List of Vehicles](./images/Screenshot_1.png)
+![Returning List of Vehicles](./images/adding-a-vehicle.png)
 
 ### Adding a vehicle
 
-![Adding a vehicle](./images/Screenshot_2.png)
+![Adding a vehicle](./images/returning-vehicles.png)
