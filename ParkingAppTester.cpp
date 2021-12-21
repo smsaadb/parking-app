@@ -21,8 +21,6 @@ void ShowDatafile()
       cout << char(tolower(ch));
    }
    cout << "-----------------------------------------------------------" << endl;
-   cout << "To restore the data back to the original values " << endl;
-   cout << "Copy \"ParkingData.csv.bak\" over \"ParkingData.csv\"" << endl;
 }
 int main()
 {
