@@ -19,7 +19,7 @@ Final project of C++ course. This app is used to record information about the in
 - Open a terminal window (e.g. PowerShell, macOS Terminal) and enter `make`. This will create an executable file called `app`.
 - Type `./app` and hit enter to run the program.
 
-## Screenshots of App
+## Screenshots
 
 ### Returning List of Vehicles
 
