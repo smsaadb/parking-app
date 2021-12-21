@@ -95,7 +95,7 @@ namespace sdds
 
     void Parking::parkingStatus() const
     {
-        cout << "****** Seneca Valet Parking ******" << endl;
+        cout << "******* Valet Parking *******" << endl;
         cout << "*****  Available spots: ";
         cout << left << setw(4) << numOfSpots - parkedVehicles;
         cout << " *****" << endl;
